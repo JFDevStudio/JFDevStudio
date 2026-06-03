@@ -1,34 +1,95 @@
-# ¡Hola! Soy Jensi Quezada 👋
+# 👋 Hola, soy Jensi Quezada
 
-Desarrollador de software independiente enfocado en la creación de soluciones web modernas y herramientas de automatización eficientes. Mi objetivo es transformar ideas en aplicaciones funcionales, limpias y de alto rendimiento.
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-Aquí puedes ver las tecnologías principales que utilizo para desarrollar proyectos y soluciones:
-
-| Desarrollo Frontend | Automatización y Lógica | Herramientas de Entorno |
-| :--- | :--- | :--- |
-| 🌐 **HTML5** | 🐍 **Python** (Scripts / Bots) | 💻 **VS Code** |
-| 🎨 **CSS3** (Responsive Design) | ⚡ **JavaScript** (Core / DOM) | 📦 **Git & GitHub** |
+Desarrollador web y programador independiente enfocado en crear herramientas útiles, aplicaciones modernas y soluciones de automatización. Me gusta transformar ideas en proyectos funcionales, rápidos y con una experiencia de usuario intuitiva.
 
 ---
 
-### 🚀 Áreas de Especialización (Servicios para Fiverr)
+## 🚀 Tecnologías y Herramientas
 
-* **Desarrollo Web Full-Stack:** Creación de páginas web interactivas, responsivas y optimizadas utilizando HTML, CSS y JavaScript nativo.
-* **Automatización con Python:** Scripts locales para automatizar tareas repetitivas, procesamiento de datos y desarrollo de asistentes lógicos.
-* **Optimización de Código:** Limpieza, reestructuración y mejora de rendimiento en scripts y aplicaciones existentes.
+### Frontend
+
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
+* 📱 Diseño Responsive
+
+### Programación y Automatización
+
+* 🐍 Python
+* 🤖 Bots y Scripts
+* 📊 Procesamiento de Datos
+
+### Herramientas
+
+* 💻 VS Code
+* 📦 Git
+* 🐙 GitHub
 
 ---
 
-### 📈 Estadísticas de GitHub
+## 🌟 Proyectos Destacados
+
+### 🌍 Global Chat
+
+Una plataforma de chat global donde cualquier usuario puede comunicarse en tiempo real, enviar solicitudes para conversaciones privadas y participar en una comunidad abierta.
+
+🔗 https://jfdevstudio.github.io/Global-Chat/
+
+**Características:**
+
+* Chat global en tiempo real.
+* Solicitudes de chat privado.
+* Sistema de niveles al participar en conversaciones.
+* Interfaz simple y accesible desde navegador.
+
+---
+
+### 🎨 Neumorphism CSS Generator
+
+Herramienta visual para generar estilos CSS con efecto neumorphism sin necesidad de escribir código manualmente.
+
+🔗 https://jfdevstudio.github.io/neumorphism-css-generator/
+
+**Características:**
+
+* Generación automática de CSS.
+* Configuración de sombras y profundidad.
+* Personalización de bordes y radios.
+* Vista previa en tiempo real.
+
+---
+
+## 💼 Servicios
+
+### 🌐 Desarrollo Web
+
+Creación de páginas web modernas, rápidas y adaptables a dispositivos móviles utilizando HTML, CSS y JavaScript.
+
+### 🐍 Automatización con Python
+
+Desarrollo de scripts para automatizar tareas repetitivas, optimizar flujos de trabajo y crear herramientas personalizadas.
+
+### ⚡ Optimización y Corrección de Código
+
+Mejora de rendimiento, organización y mantenimiento de proyectos existentes.
+
+---
+
+## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JFDevStudio&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFDevStudio&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-💡 *Disponible para proyectos independientes y colaboraciones técnicas de alto nivel.*
+## 📫 Contacto
+
+* GitHub: https://github.com/JFDevStudio
+* Fiverr: Disponible para trabajos freelance
+* Discord: DevVerse Studios
+
+---
+
+💡 *Siempre abierto a nuevas oportunidades, colaboraciones y proyectos interesantes.*
