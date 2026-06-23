@@ -37,6 +37,17 @@ Aplicación web interactiva de categoría *FinTech* diseñada bajo arquitectura 
 * **Seguridad (Desarrollo Defensivo):** Motores de validación estrictos contra números negativos y campos nulos.
 * **Motor Inteligente:** Generación automática de recomendaciones basadas en la regla financiera 50/30/20.
 
+  ### 📋 TaskMaster Pro — Tablero Kanban Inteligente
+Aplicación avanzada de gestión de proyectos estilo Kanban que implementa la API nativa de arrastre del navegador para optimizar flujos de trabajo en tiempo real.
+
+🔗 https://jfdevstudio.github.io/taskmaster-pro/
+
+**Características:**
+* **Motor Drag & Drop Nativo:** Flujo interactivo completo (`dragstart`, `dragover`, `drop`) sin dependencias ni librerías externas.
+* **Confirmaciones Flotantes Custom:** Interfaz de usuario pulida con ventanas modales estéticas y desenfoques dinámicos (`backdrop-filter`).
+* **Arquitectura de Estado:** Separación estricta de lógica de persistencia (`storage.js`) y renderizado visual (`app.js`).
+* **Seguridad Avanzada:** Sistema de sanitización de entradas integrado para mitigar vulnerabilidades de inyección de código (XSS).
+
 ### 🎨 Neumorphism CSS Generator
 Herramienta visual para generar estilos CSS con efecto neumorphism sin necesidad de escribir código manualmente.
 
