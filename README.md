@@ -7,20 +7,17 @@ Desarrollador web y programador independiente enfocado en crear herramientas út
 ## 🚀 Tecnologías y Herramientas
 
 ### Frontend
-
 * 🌐 HTML5
-* 🎨 CSS3
-* ⚡ JavaScript
-* 📱 Diseño Responsive
+* 🎨 CSS3 (Variables, Grid, Flexbox)
+* ⚡ JavaScript (ES6+, Programación Modular)
+* 📱 Diseño Responsive (Mobile-First)
 
 ### Programación y Automatización
-
 * 🐍 Python
 * 🤖 Bots y Scripts
 * 📊 Procesamiento de Datos
 
 ### Herramientas
-
 * 💻 VS Code
 * 📦 Git
 * 🐙 GitHub
@@ -29,14 +26,23 @@ Desarrollador web y programador independiente enfocado en crear herramientas út
 
 ## 🌟 Proyectos Destacados
 
-### 🎨 Neumorphism CSS Generator
+### 💰 FinanzasPro — Simulador de Finanzas Personales
+Aplicación web interactiva de categoría *FinTech* diseñada bajo arquitectura modular para proyectar balances mensuales/anuales y ofrecer diagnósticos automáticos de salud financiera.
 
+🔗 https://jfdevstudio.github.io/simulador-finanzas/
+
+**Características:**
+* **Persistencia de Estado:** Almacenamiento local (`LocalStorage`) para datos financieros y preferencias de usuario.
+* **UI/UX Premium:** Interfaz responsiva con soporte nativo para **Modo Oscuro** dinámico.
+* **Seguridad (Desarrollo Defensivo):** Motores de validación estrictos contra números negativos y campos nulos.
+* **Motor Inteligente:** Generación automática de recomendaciones basadas en la regla financiera 50/30/20.
+
+### 🎨 Neumorphism CSS Generator
 Herramienta visual para generar estilos CSS con efecto neumorphism sin necesidad de escribir código manualmente.
 
 🔗 https://jfdevstudio.github.io/neumorphism-css-generator/
 
 **Características:**
-
 * Generación automática de CSS.
 * Configuración de sombras y profundidad.
 * Personalización de bordes y radios.
@@ -47,16 +53,13 @@ Herramienta visual para generar estilos CSS con efecto neumorphism sin necesidad
 ## 💼 Servicios
 
 ### 🌐 Desarrollo Web
-
 Creación de páginas web modernas, rápidas y adaptables a dispositivos móviles utilizando HTML, CSS y JavaScript.
 
 ### 🐍 Automatización con Python
-
 Desarrollo de scripts para automatizar tareas repetitivas, optimizar flujos de trabajo y crear herramientas personalizadas.
 
 ### ⚡ Optimización y Corrección de Código
-
-Mejora de rendimiento, organización y mantenimiento de proyectos existentes.
+Mejora de rendimiento, organización y mantenimiento de proyectos existentes utilizando buenas prácticas de arquitectura.
 
 ---
 
