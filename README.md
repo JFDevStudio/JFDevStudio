@@ -29,21 +29,6 @@ Desarrollador web y programador independiente enfocado en crear herramientas út
 
 ## 🌟 Proyectos Destacados
 
-### 🌍 Global Chat
-
-Una plataforma de chat global donde cualquier usuario puede comunicarse en tiempo real, enviar solicitudes para conversaciones privadas y participar en una comunidad abierta.
-
-🔗 https://jfdevstudio.github.io/Global-Chat/
-
-**Características:**
-
-* Chat global en tiempo real.
-* Solicitudes de chat privado.
-* Sistema de niveles al participar en conversaciones.
-* Interfaz simple y accesible desde navegador.
-
----
-
 ### 🎨 Neumorphism CSS Generator
 
 Herramienta visual para generar estilos CSS con efecto neumorphism sin necesidad de escribir código manualmente.
