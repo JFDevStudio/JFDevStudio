@@ -48,6 +48,17 @@ Aplicación avanzada de gestión de proyectos estilo Kanban que implementa la AP
 * **Arquitectura de Estado:** Separación estricta de lógica de persistencia (`storage.js`) y renderizado visual (`app.js`).
 * **Seguridad Avanzada:** Sistema de sanitización de entradas integrado para mitigar vulnerabilidades de inyección de código (XSS).
 
+  ### ☁️ WeatherApp Pro — Pronóstico Inteligente
+Aplicación meteorológica minimalista que consume datos meteorológicos reales en tiempo real mediante peticiones asíncronas optimizadas y control de estados.
+
+🔗 https://jfdevstudio.github.io/weather-app-pro/
+
+**Características:**
+* **Conexión Asíncrona Eficiente:** Consumo de APIs RESTful utilizando `Fetch API` con flujos limpios de `Async / Await`.
+* **Búsqueda Predictiva Inteligente:** Implementación optimizada de autocompletado nativo en el navegador para filtrado de ciudades en milisegundos.
+* **Gestión de Estados Avanzada:** Control de flujo visual dinámico mediante estados de carga (*Loading Spinner*) e interceptores robustos de errores (*Try/Catch*).
+* **Look & Feel Ultra Moderno:** Diseño responsivo basado en la tendencia *Glassmorphic* con degradados inmersivos y desenfoques de capa.
+
 ### 🎨 Neumorphism CSS Generator
 Herramienta visual para generar estilos CSS con efecto neumorphism sin necesidad de escribir código manualmente.
 
