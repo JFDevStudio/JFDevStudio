@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jensi Quezada
+# 👋 Hola, soy Jensy Quezada
 
 Desarrollador web y programador independiente enfocado en crear herramientas útiles, aplicaciones modernas y soluciones de automatización. Me gusta transformar ideas en proyectos funcionales, rápidos y con una experiencia de usuario intuitiva.
 
